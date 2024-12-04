@@ -17,8 +17,8 @@ While the manual approach can be informative, it's generally recommended to use 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Kali and Metasploiatable enviroment <br/>
-<img src="https://i.imgur.com/S0SDy9W.jpeg" height="80%" width="80%" alt="KM"/>
+Registry Editor <br/>
+<img src="https://i.imgur.com/ucivBrx.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
