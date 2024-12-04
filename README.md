@@ -22,28 +22,36 @@ Registry Editor <br/>
 <br />
 
 <br />
-Getting Metasploit IP<br/>
-<img src="https://i.imgur.com/gZwKyw6.jpeg" height="80%" width="80%" alt="KM"/>
+Windows Registry<br/>
+<img src="https://i.imgur.com/fomhhbX.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Setting up Wireshark <br/>
-<img src="https://i.imgur.com/ypbhm06.jpeg" height="80%" width="80%" alt="KM"/>
+Running Secpol.msc <br/>
+<img src="https://i.imgur.com/D5aSpNY.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Running nmap scan against Metsaploitable<br/>
-<img src="https://i.imgur.com/2fYPQ3q.jpeg" height="80%" width="80%" alt="KM"/>
+Initial status<br/>
+<img src="https://i.imgur.com/prAatZI.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Inspecting packets from Port 80 in Wireshark<br/>
-<img src="https://i.imgur.com/ObErm12.jpeg" height="80%" width="80%" alt="KM"/>
+Making changes<br/>
+<img src="https://i.imgur.com/xufBDe2.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Checking out sniffed logged infromation from the website.<br/>
-<img src="https://i.imgur.com/f4DD41S.jpeg" height="80%" width="80%" alt="KM"/>
+<br/>
+<img src="https://i.imgur.com/IYMimBz.jpeg" height="80%" width="80%" alt="KM"/>
+<br />
+<br/>
+<img src="https://i.imgur.com/Vyn5EaL.jpeg" height="80%" width="80%" alt="KM"/>
+<br />
+
+<br />
+Final Result when logging in<br/>
+<img src="https://i.imgur.com/2iiZbES.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
